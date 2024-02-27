@@ -7,7 +7,7 @@ This Power BI report is aimed to explore what factors are contributing to the co
 These factors include travel frequency, hourly salary rate, job involvement, commute distance, job satisfaction levels, stock options, experience at company and many more.
 
 Key insights include:
--In the departments, sales exhibits the highest attrition rate.
+-  In the departments, sales exhibits the highest attrition rate.
 -  Among genders, males are predominant.
 -  Among commuters, the group with a commute duration of 0-5 minutes shows notable attrition.
 -  Individuals who have been with the company for four years and have been promoted once within the first two years tend to leave, possibly due to dissatisfaction with their raise.
